@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TFSSAVE</string>
+    <string name="Nom">Nom</string>
+    <string name="Prenom">Prenom</string>
+    <string name="Telephone">Telephone</string>
+    <string name="Email">Email</string>
+    <string name="STaff">Staff</string>
+    <string name="Staff">Staff</string>
+    <string name="Visiteur">Visiteur</string>
+    <string name="Eleve">Eleve</string>
+    <string name="Sauvegarder">Sauvegarder</string>
+</resources>
